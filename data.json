@@ -1,0 +1,73 @@
+{
+    "patientsArrayJson":[
+        {
+            "profilepic":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "name":"Paresh Kumar",
+            "location":"NH 45, Trichy",
+            "bloodGroup":"B+",
+            "status":"unattended",
+            "severity":"severe",
+            "lat":"13.0827",
+            "lon":"80.2707"
+            },
+        {
+        "profilepic":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name":"Suresh Kumar",
+        "location":"NH 45, Trichy",
+        "bloodGroup":"B+",
+        "status":"unattended",
+        "severity":"severe",
+        "lat":"13.0827",
+        "lon":"80.2707"
+        },
+        {
+          "profilepic":"https://images.pexels.com/users/avatars/341699/bharat-kumar-656.jpeg?w=256&h=256&fit=crop&crop=faces",
+          "name":"Vipun Kumar",
+          "location":"Kumaran Salai, Dindivanam, Tamilnadu",
+          "bloodGroup":"A+",
+          "status":"attended",
+          "severity":"severe",
+          "lat":"13.0827",
+          "lon":"80.2707"
+        },
+        {
+          "profilepic":"https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/29553/square_thumb%402x.jpg",
+          "name":"Sagar Sailesh",
+          "location":"Poonamalle High Road, Chennai",
+          "bloodGroup":"O-",
+          "status":"attended",
+          "severity":"less severe",
+          "lat":"13.0827",
+          "lon":"80.2707"
+        },
+        {
+          "profilepic":"https://images.pexels.com/users/avatars/391711/ehab-qabeel-596.jpeg?w=256&h=256&fit=crop&crop=faces",
+        "name":"Larry Brown",
+        "location":"Salem Main Road,Tamilnadu",
+        "bloodGroup":"O+",
+        "status":"attended",
+        "severity":"mild",
+        "lat":"13.0827",
+        "lon":"80.2707"
+        },
+        {
+          "profilepic":"https://us.123rf.com/450wm/mimagephotography/mimagephotography1401/mimagephotography140100151/25162902-close-up-portrait-of-a-handsome-young-indian-man-smiling-on-isolated-white-background.jpg?ver=6",
+        "name":"Mayilsami Durai",
+        "location":"Coimbatore Main Durai",
+        "bloodGroup":"AB+",
+        "status":"attended",
+        "severity":"severe",
+        "lat":"13.0827",
+        "lon":"80.2707"
+        },{
+        "profilepic":"https://www.maxpixel.net/static/photo/1x/Person-Man-Business-Portrait-Business-Man-Indian-93459.jpg",
+        "name":"Alegswaran M",
+        "location":"Kanyakumari Kurukku Salai, Tamilnadu",
+        "bloodGroup":"AB-",
+        "status":"attended",
+        "severity":"less severe",
+        "lat":"13.0827",
+        "lon":"80.2707"
+        }
+        ]
+}
